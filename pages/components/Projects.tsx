@@ -42,8 +42,8 @@ const Projects = () => {
                   src={item.image} 
                   alt="project image" 
                   className="mt-6 md:mt-12 lg:mt-0 w-full shadow-lg" 
-                  width={700} 
-                  height={350}
+                  width={500} 
+                  height={200}
                 />
               </div>
             </li>
