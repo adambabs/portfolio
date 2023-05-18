@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   ⚛ Simplefolio React ⚛
 </h1>
@@ -151,3 +152,6 @@ You will need the following things properly installed on your computer.
 ### Building
 
 *  `npm run build`
+=======
+# portfolio
+>>>>>>> 74603c47ff01ba9a4699b3eeb73a96b339dec307
