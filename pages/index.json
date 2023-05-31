@@ -54,10 +54,10 @@
 				"image": "/img/placeholder-700x350.png"
 			}, 
       {
-				"title": "NFT Marketplace",
-				"description": "I am currently building my own decentaralized cryptocurrency exchange",
-				"url": "http://www.example.com/project3",
-        "github": "http://www.example.com/github",
+				"title": "Wave Lottery Portal",
+				"description": "Solidity & React project where I have built a ",
+				"url": "https://waveportal-adambabs.vercel.app",
+        "github": "https://github.com/adambabs/waveportal",
 				"image": "/img/placeholder-700x350.png"
 			}
     ]
