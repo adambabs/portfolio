@@ -23,7 +23,7 @@
   },
   "about": {
     "title": "About me",
-    "image": "/img/macguy.png",
+    "image": "/img/timeline.png",
     "primary": "This is where you can describe about yourself. The more you describe about yourself, the more chances you have!",
     "secondary": "Extra Information about you! like hobbies and your goals.",
     "timelineSubtitle": "My Timeline: Add your timeline description here."
@@ -47,18 +47,11 @@
 				"image": "/img/web3.jpeg"
 			},
       {
-				"title": "Decentralized Cryptocurrency Exchange",
-				"description": "I am currently building my own decentaralized cryptocurrency exchange",
-				"url": "http://www.example.com/project3",
-        "github": "http://www.example.com/github",
-				"image": "/img/placeholder-700x350.png"
-			}, 
-      {
 				"title": "Wave Lottery Portal",
-				"description": "Solidity & React project where I have built a ",
+				"description": "Learning Solidity & React project where I have built a ",
 				"url": "https://waveportal-adambabs.vercel.app",
         "github": "https://github.com/adambabs/waveportal",
-				"image": "/img/placeholder-700x350.png"
+				"image": "/img/wave.png"
 			}
     ]
   },
