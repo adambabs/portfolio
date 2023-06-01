@@ -60,11 +60,10 @@
     "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
     "formId": "change"
   },
-
   "contact": {
     "title": "Contact",
     "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
-    "formId": "mvonynrp"
+    "formId": "form"
   },
   "footer": {
 		"linkedin": "https://www.linkedin.com/in/adam-babs-76124415b/",

@@ -23,8 +23,8 @@ const Timeline = () => {
             src={about.image} 
             alt="about" 
             className="shadow-lg" 
-            width={400} 
-            height={400}
+            width={800} 
+            height={600}
           />
         </div>
         <div className="pt-8 md:py-0 md:w-1/2 text-white md:ml-4 text-center md:text-left">
