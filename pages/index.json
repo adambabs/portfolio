@@ -58,7 +58,7 @@
 				"description": "Learning Solidity - build a website for kickstarting projects for crypto space",
 				"url": "https://nftwhitelist-dapp.vercel.app/",
         "github": "https://github.com/adambabs/WhiteListDapp",
-				"image": "/img/crypto-devs.svg"
+				"image": "/img/crypto-devs.png"
 			}
     ]
   },
