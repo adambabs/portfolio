@@ -19,7 +19,7 @@
 	],
   "hero": {
     "name": "Adam",
-    "subtitle": "I'm a Web3 & Blockchain Developer."
+    "subtitle": "Java Engineer exploring the Web3 space."
   },
   "about": {
     "title": "About me",
@@ -48,10 +48,17 @@
 			},
       {
 				"title": "Wave Lottery Portal",
-				"description": "Learning Solidity & React project where I have built a ",
+				"description": "Learning Solidity & React project where I have built a lottery, upon entering which users can win 0.05 eth with 50% chance ",
 				"url": "https://waveportal-adambabs.vercel.app",
         "github": "https://github.com/adambabs/waveportal",
 				"image": "/img/wave3.png"
+			}, 
+      {
+				"title": "Dapp for an NFT Whitelist",
+				"description": "Learning Solidity - build a website for kickstarting projects for crypto space",
+				"url": "https://nftwhitelist-dapp.vercel.app/",
+        "github": "https://github.com/adambabs/WhiteListDapp",
+				"image": "/img/crypto-devs.svg"
 			}
     ]
   },
