@@ -25,3 +25,33 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.loading-line {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 4px;
+  background: rgb(72, 65, 202, 0.8);
+  z-index: 9999;
+  transition: right 0.3s ease-out;
+}
+
+
+.header {
+  text-align: center; /* Center the text in the header */
+}
+
+.line {
+  width: 100%;
+  height: 3px;
+  background-color: rgb(72, 65, 202, 0.8);
+  margin-top: 8px;
+  margin-bottom: 8px;
+  align-self: center;
+}
+
+.header__menu {
+  display: flex;
+  flex-direction: column;
+  align-items: left; /* Center the items vertically */
+}
