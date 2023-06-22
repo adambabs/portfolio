@@ -22,8 +22,6 @@ const Footer = () => {
       </div>
       <span className="text-sm text-center text-neutral-600">
         © {getYear()} - <a href="https://portfolio-adambabs.vercel.app/">Adam Babs</a>
-
-        © {getYear()} - Adam Babs <a href="https://www.dylanarveson.com">Adam Babs</a>
       </span>
     </div>
   );
