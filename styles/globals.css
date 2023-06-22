@@ -31,7 +31,8 @@ body {
   top: 0;
   left: 0;
   height: 4px;
-  background: rgb(72, 65, 202, 0.8);
+  background: blue;
+  /* background: rgb(72, 65, 202, 0.8); */
   z-index: 9999;
   transition: right 0.3s ease-out;
 }

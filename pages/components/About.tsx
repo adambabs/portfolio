@@ -11,7 +11,9 @@ const About = () => {
   ];
 
   return (
-    <div id="About" className="px-8 md:px-32 pb-32 content-center bg-gradient-to-r from-indigo-700 via-indigo-500 to-white">
+    // <div id="About" className="px-8 md:px-32 pb-32 content-center bg-gradient-to-r from-indigo-700 via-indigo-500 to-white">
+    <div id="About" className="px-8 md:px-32 pb-32 content-center bg-gradient-to-r from-blue-700 via-blue-500 to-white">
+ 
       <h1 className="pt-12 uppercase font-bold text-center text-white text-bold text-4xl">{about.title}</h1>
       <div className="mt-16 flex flex-col md:flex-row align-center items-center">
         <div className="w-1/2 flex justify-center content-center">
@@ -22,6 +24,7 @@ const About = () => {
             width={400} 
             height={400}
           />
+
         </div>
         <div className="pt-8 md:py-0 md:w-1/2 text-white md:ml-4 text-center md:text-left">
           <div className="about__primary">
