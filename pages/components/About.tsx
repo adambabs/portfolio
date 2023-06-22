@@ -11,8 +11,7 @@ const About = () => {
   ];
 
   return (
-    // <div id="About" className="px-8 md:px-32 pb-32 content-center bg-gradient-to-r from-indigo-700 via-indigo-500 to-white">
-    <div id="About" className="px-8 md:px-32 pb-32 content-center bg-gradient-to-r from-blue-700 via-blue-500 to-white">
+    <div id="About" className="px-8 md:px-32 pb-32 content-center bg-gradient-to-r from-blue-700 via-blue-600 via blue-500 to-white">
  
       <h1 className="pt-12 uppercase font-bold text-center text-white text-bold text-4xl">{about.title}</h1>
       <div className="mt-16 flex flex-col md:flex-row align-center items-center">
