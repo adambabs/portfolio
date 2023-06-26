@@ -69,17 +69,20 @@
       {
         "date": "2015",
         "title": "First Achievement",
-        "description": "Description of your first achievement."
+        "description": "Description of your first achievement.",
+        "image": "/img/me.jpg"
       },
       {
-        "date": "2020",
-        "title": "Second Achievement",
-        "description": "Description of your second achievement."
+        "date": "2015",
+        "title": "SECOND Achievement",
+        "description": "Description of your SECOND achievement.",
+        "image": "/img/wave.png"
       },
       {
-        "date": "2022",
-        "title": "Latest Achievement",
-        "description": "Description of your latest achievement."
+        "date": "2015",
+        "title": "THIRD Achievement",
+        "description": "Description of your THIRD achievement.",
+        "image": "/img/wave3.png"
       }
     ]
   },
