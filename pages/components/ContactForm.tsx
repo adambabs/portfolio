@@ -72,10 +72,13 @@ function ContactForm() {
           <button 
             type="submit"
             disabled={state.submitting}
-            className="text-lg font-bold p-0.5 mt-6 w-44 bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500"
+            className="text-lg font-bold p-0.5 mt-6 w-44 bg-gradient-to-r from-indigo-900 via-indigo-600 to-indigo-400"
           >
+            {/* from-indigo-900 via-indigo-600 to-indigo-400 */}
             <div className="bg-white">
-              <span className="block p-2 font-semibold bg-white font-bold bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 bg-clip-text text-transparent">
+              {/* <span className="block p-2 font-semibold bg-white font-bold bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 bg-clip-text text-transparent"> */}
+              <span className="block p-2 font-semibold bg-white font-bold bg-gradient-to-r from-indigo-900 via-indigo-600 to-indigo-400 bg-clip-text text-transparent">
+
                 Send
               </span>
           </div>

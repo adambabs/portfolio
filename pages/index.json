@@ -64,8 +64,24 @@
   },
   "timeline": {
     "title": "Timeline",
-    "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
-    "formId": "change"
+    "description": "This is where you can describe your timeline. The more you describe about your timeline, the more chances you have!",
+    "milestones": [
+      {
+        "date": "2015",
+        "title": "First Achievement",
+        "description": "Description of your first achievement."
+      },
+      {
+        "date": "2020",
+        "title": "Second Achievement",
+        "description": "Description of your second achievement."
+      },
+      {
+        "date": "2022",
+        "title": "Latest Achievement",
+        "description": "Description of your latest achievement."
+      }
+    ]
   },
   "contact": {
     "title": "Contact",
