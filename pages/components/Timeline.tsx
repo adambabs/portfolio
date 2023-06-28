@@ -7,9 +7,6 @@ import { faArrowLeft, faArrowRight } from "@fortawesome/free-solid-svg-icons";
 const Timeline = () => {
   const timeline = config.timeline;
   const about = config.about;
-  // const stops = config.timeline.milestones;
-
-  // const stops = timeline.milestones;
   const stops = timeline.timeline;
   const [currentStop, setCurrentStop] = useState(0);
 
@@ -69,9 +66,7 @@ const Timeline = () => {
           <FontAwesomeIcon icon={faArrowRight} />
         </button>
         <div>
-    </div>
-        
-
+      </div>
         
       </div>
     </div>
