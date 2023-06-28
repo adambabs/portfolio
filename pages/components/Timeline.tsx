@@ -20,7 +20,6 @@ const Timeline = () => {
     console.log(currentStop);
     if (currentStop > 0) {
       setCurrentStop(currentStop - 1);
-
     }
   };
   return (
@@ -38,11 +37,16 @@ const Timeline = () => {
           />
         </div>
         <div className="pt-8 md:py-0 md:w-1/2 text-white md:ml-4 text-center md:text-left">
-          <div className="about__primary">
-            <span>{stops[currentStop].title}</span>
+
+        <div className="date">
+            <b><span>{stops[currentStop].date}</span></b>
           </div>
+          <div className="about__primary">
+            <b><span>{stops[currentStop].title}</span></b>
+          </div>
+          
           <div className="mt-6">
-            <span>{stops[currentStop].description}</span>
+          <b><span>{stops[currentStop].description}</span></b>
           </div>
         </div>
       </div>

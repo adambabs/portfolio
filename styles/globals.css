@@ -100,3 +100,14 @@ body {
     transform: translateY(0);
   }
 }
+
+
+.image-wrapper {
+  position: relative;
+  transition: transform 0.3s ease;
+}
+
+.zoomed-image {
+  transform: translate(50%, -4.25%) scale(2.0);
+}
+

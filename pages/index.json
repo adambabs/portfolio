@@ -23,7 +23,7 @@
   },
   "about": {
     "title": "About me",
-    "image": "/img/timeline.png",
+    "image": "/img/about3.png",
     "primary": "This is where you can describe about yourself. The more you describe about yourself, the more chances you have!",
     "secondary": "Extra Information about you! like hobbies and your goals.",
     "timelineSubtitle": "My Timeline: Add your timeline description here."
@@ -67,29 +67,42 @@
     "description": "This is where you can describe your timeline. The more you describe about your timeline, the more chances you have!",
     "timeline": [
       {
-        "date": "2015",
-        "title": "First Achievement",
-        "description": "Description of your first achievement.",
-        "image": "/img/me.jpg"
+        "date": "2018",
+        "title": "Computer Science Degree Start",
+        "description": "I have started my computer science journey at the University of Liverpool ",
+        "image": "/img/timeline3.png"
       },
       {
-        "date": "2015",
-        "title": "SECOND Achievement",
-        "description": "Description of your SECOND achievement.",
-        "image": "/img/wave.png"
+        "date": "2019",
+        "title": "McGill Exchange",
+        "description": "I have started my 2nd year of studies as an exchange student in Canada!",
+        "image": "/img/timeline3.png"
       },
       {
-        "date": "2015",
-        "title": "THIRD Achievement",
-        "description": "Description of your THIRD achievement.",
-        "image": "/img/wave3.png"
+        "date": "2021",
+        "title": "Graduation from the University of Liverpool!",
+        "description": "",
+        "image": "/img/timeline3.png"
+      }, 
+      {
+        "date": "2021",
+        "title": "Master studies enrollment at University of Amsterdam",
+        "description": "Software Engineering program",
+        "image": "/img/timeline3.png"
+      },
+
+      {
+        "date": "2022",
+        "title": "Graduation with a thesis on a blockchain topic",
+        "description": "Investigating Zero-Knowledge Protocols for Preserving Privacy in Coordination of Multi-Domain Applications",
+        "image": "/img/timeline3.png"
       }
     ]
   },
   "contact": {
     "title": "Contact",
     "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
-    "formId": "https://formspree.io/f/mvonynrp"
+    "formId": "mvonynrp"
   },
   "footer": {
 		"linkedin": "https://www.linkedin.com/in/adam-babs-76124415b/",

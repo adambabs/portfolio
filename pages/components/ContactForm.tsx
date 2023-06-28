@@ -14,7 +14,7 @@ function ContactForm() {
 
   const [state, handleSubmit] = useForm(contact.formId);
   if (state.succeeded) {
-      return <p>Thanks for joining!</p>;
+      return <p>Thank you for contacting me!</p>;
   }
 
   return (
