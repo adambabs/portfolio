@@ -8,6 +8,10 @@ function ContactForm() {
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
 
+  const goToNextStop = () => {
+    console.log("Next stop clicked");
+  };
+
   const [state, handleSubmit] = useForm(contact.formId);
   if (state.succeeded) {
       return <p>Thanks for joining!</p>;
@@ -73,6 +77,7 @@ function ContactForm() {
             type="submit"
             disabled={state.submitting}
             className="text-lg font-bold p-0.5 mt-6 w-44 bg-gradient-to-r from-indigo-900 via-indigo-600 to-indigo-400"
+            onClick={goToNextStop}
           >
             <div className="bg-white">
               <span className="block p-2 font-semibold bg-white font-bold bg-gradient-to-r from-indigo-900 via-indigo-600 to-indigo-400 bg-clip-text text-transparent">

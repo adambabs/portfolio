@@ -32,6 +32,7 @@ const ScrollToTopButton = () => {
   }, []);
 
   const handleScrollToTop = () => {
+    console.log("this works");
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 

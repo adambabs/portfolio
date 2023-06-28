@@ -65,7 +65,7 @@
   "timeline": {
     "title": "Timeline",
     "description": "This is where you can describe your timeline. The more you describe about your timeline, the more chances you have!",
-    "milestones": [
+    "timeline": [
       {
         "date": "2015",
         "title": "First Achievement",
@@ -89,7 +89,7 @@
   "contact": {
     "title": "Contact",
     "description": "This is where you can describe about your contact. The more you describe about your contact, the more chances you have!",
-    "formId": "form"
+    "formId": "https://formspree.io/f/mvonynrp"
   },
   "footer": {
 		"linkedin": "https://www.linkedin.com/in/adam-babs-76124415b/",
