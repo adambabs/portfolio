@@ -14,27 +14,17 @@ const Timeline = () => {
   const [currentStop, setCurrentStop] = useState(0);
 
   const goToNextStop = () => {
-    console.log("next stop entered");
-
     if (currentStop < stops.length - 1) {
       setCurrentStop(currentStop + 1);
     }
   };
 
-
   const goToPreviousStop = () => {
-    console.log("previous stop entered");
-
     console.log(currentStop);
     if (currentStop > 0) {
       setCurrentStop(currentStop - 1);
-      console.log(currentStop);
-      console.log("stop number decremented");
 
     }
-    console.log("after if log");
-    console.log(currentStop);
-
   };
   return (
     
