@@ -24,7 +24,7 @@ const Projects = () => {
                     <a href={item.url} target="_blank" rel="noreferrer">
                       <div className="bg-white">
                         <span className="block py-1 px-2 bg-white bg-gradient-to-r from-indigo-900 via-indigo-600 to-indigo-400 bg-clip-text text-transparent">
-
+                      
                           See Project
 
                         </span>
