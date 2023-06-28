@@ -1,8 +1,6 @@
 import { Inter } from 'next/font/google'
 import LoadingLine from './components/LoadingLine';
 import ScrollToTopButton from "./components/ScrollToTopButton";
-import { Html, Head, NextScript } from 'next/document'
-
 import Header from './components/Header'
 import Hero from './components/Hero'
 import About from './components/About'
@@ -25,8 +23,8 @@ export default function Home() {
         <Timeline />
         <Contact />
         <Footer />
-      <LoadingLine />
-      <ScrollToTopButton />
+        <LoadingLine />
+        <ScrollToTopButton />
     </main>
   )
 }
