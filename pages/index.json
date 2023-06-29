@@ -24,8 +24,8 @@
   "about": {
     "title": "About me",
     "image": "/img/about3.png",
-    "primary": "This is where you can describe about yourself. The more you describe about yourself, the more chances you have!",
-    "secondary": "Extra Information about you! like hobbies and your goals.",
+    "primary": "I have recently graduated with a master degree from University of Amsterdam, with a thesis focused on the blockchain technology",
+    "secondary": "Since 2018, I have been interested in the web3 space and recently I decided to combine my professional career with my hobby!",
     "timelineSubtitle": "My Timeline: Add your timeline description here."
 
   },

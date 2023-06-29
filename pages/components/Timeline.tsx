@@ -24,7 +24,8 @@ const Timeline = () => {
   };
   return (
     
-    <div id={timeline.title} className="px-8 sm:px-12 md:px-32 pb-32 flex justify-center align-center flex-col bg-gradient-to-r from-blue-700 via-blue-600 via blue-500 to-white">
+      <div id={timeline.title} className="px-8 sm:px-12 md:px-32 pb-32 flex justify-center align-center flex-col bg-gradient-to-r from-blue-700 via-blue-600 via blue-500 to-blue-100">
+
       <h2 className="mt-12 uppercase font-bold text-center text-white text-bold text-4xl">{timeline.title}</h2>
       <div className="mt-16 flex flex-col md:flex-row align-center items-center">
         <div className="w-1/2 flex justify-center content-center">
