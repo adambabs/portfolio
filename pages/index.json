@@ -30,7 +30,7 @@
 
   },
   "projects": {
-    "title": "Projects",
+    "title": "Web3 related Projects",
     "projects": [
       {
         "title": "Master Thesis - Investigating Zero-Knowledge Protocols for Preserving Privacy in Coordination of Multi-Domain Applications",
@@ -107,6 +107,6 @@
   "footer": {
 		"linkedin": "https://www.linkedin.com/in/adam-babs-76124415b/",
 		"twitter": "",
-		"github": "github.com/adambabs"
+		"github": "https://www.github.com/adambabs"
 	}
 }
